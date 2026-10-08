@@ -3,7 +3,7 @@
 A minimalist showcase of my technical work, projects, and professional background. 
 
 ## Overview
-I am a third-year Information Science Engineer focused on Artificial Intelligence, Machine Learning, and Full-Stack Development. My work centers on building scalable AI agents, intelligent automation workflows, and high-performance web applications.
+I am a final-year Information Science Engineer focused on Artificial Intelligence, Machine Learning, and Full-Stack Development. My work centers on building scalable AI agents, intelligent automation workflows, and high-performance web applications.
 
 This repository contains the source code for my personal portfolio, built with native web technologies and deployed via Vercel.
 
